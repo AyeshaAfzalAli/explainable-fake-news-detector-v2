@@ -73,3 +73,14 @@ with transformer-based approaches and guide final model selection.
 Notebook:
 `notebooks/error_analysis.ipynb`
 
+## Trained Model
+
+The fine-tuned BERT model is not included in this repository due to size limits.
+
+To use the model:
+1. Download it from Google Drive (link available on request)
+2. Place it in a local folder (e.g. `~/ML_MODELS/bert_finetuned`)
+3. Load using HuggingFace Transformers
+
+
+
